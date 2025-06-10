@@ -8,6 +8,15 @@ It allows writing HTML-like code directly in JavaScript files.
 ```jsx
 const element = <h1>Hello, JSX!</h1>;
 
+# features of react -- 
+     it is declarative   as it uses JSX (html inside javascript) 
+            basically a syntax extension to javascript 
+    
+     it is more of a component baseed approach 
+     very efficient for creating a single page applications using virtual DOM approach.
+
+
+
 Why use JSX?
 Cleaner syntax for creating UI components
 
